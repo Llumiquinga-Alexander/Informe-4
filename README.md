@@ -10,15 +10,15 @@ Nombre del profesor: Darwin Omar Alulema Flores
 
 Objetivos:
 
-Conocer los circuitos en serie-paralelo y los teoremas de circuitos y conversiones, mediante la lectura de los capítulos 7 y 8 del libro "Principios de circuitos eléctricos" de Floyd, poder desarrollar correctamente los ejercicios planteados en cada capítulo.
+Tener un conocimiento óptimo sobre los circuitos en serie-paralelo y los teoremas de circuitos y conversiones, para de esa manera poder dar solución a los ejercicios planteados.
 
 Objetivos Específicos:
 
-Analizar de forma correcta los circuitos serie-paralelo y los divisores de voltaje con carga.
+Analizar de una manera adecuada los circuitos serie-paralelo y los divisores de voltaje con carga.
 
-Realizar de forma correcta las conversiones de fuente.
+Aplicar de manera correcta el teorema de superposicion en el analisis de circuitos electricos.
 
-Aplicar el teorema de superposicion en el analisis de circuitos electricos.
+Obtener los resultados esperados en la aplicación del teorema de superposición para la resolución de los ejercicios planteados.
 
 Márco teórico:
 
