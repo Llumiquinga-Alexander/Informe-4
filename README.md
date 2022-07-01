@@ -246,33 +246,33 @@ SECCIÓN 8–3 Conversiones de fuente
 
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-2.png)
 
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-4.png)
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-6.png)
 
 SECCIÓN 8–4 El teorema de superposición
 
 8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-8.png)
 
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.png)
 
 (a) Corriente a travéz de Rl debido a la fuente de 1A :
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.1.png) parte de abajo
 
 La corriente a travéz RL, debido a la fuente de 2V, es cero debido a la resistencia infinita (abierta) se la fuente de 1A.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.2.png)
 
 Corriente total atravéz de RL:
 
