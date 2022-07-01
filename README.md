@@ -202,25 +202,25 @@ SECCIÓN 7–6 El puente Wheatstone
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60o C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/48.1.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/48.2.png)
 
 SECCIÓN 7–7 Localización de fallas
 
 50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/50.png)
 
 El circuito lo volvemos a dibujar
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/50.2.png)
 
 Ambos medidores son correctos
 
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/52.png)
 
 Redibujando el circuito:
 
@@ -228,13 +228,15 @@ La lectura del medidor de 81,8V es incorrecta .
 
 La falla mas probable es una resistencia de 12 KΩ abierta . Esto hara que el voltaje en el punto A sea más alto de lo que debería ser, para verificar calculamos VA asumiendo una resistencia de 12KΩ abierto.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/52.1.png)
+
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/52.2.png)
 
 Los medidores son correctos
 
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/54.png)
 
 Si R2 se abre, VA=15V. VB=0V Y VC=0V
 
