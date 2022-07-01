@@ -22,9 +22,9 @@ Aplicar el teorema de superposicion en el analisis de circuitos electricos.
 
 Márco teórico:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/mapa1.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/mapa2.png)
 
 EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
@@ -366,105 +366,115 @@ Use la superposición para combinar los voltajes de V4, para obtener el voltaje 
 
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-20.png)
 
-Considere ![](. Thevenin a la izquierda del putno A como se muestra en el circuito.
+Considere ![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-20%20pregunta.png). Thevenin a la izquierda del putno A como se muestra en el circuito.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-20.1.png)
 
 Para determinar VTH redibujamos el circuito:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-20.2.png)
 
 El circuito de thevenin como lo dibujamos, la corriente en el punto A se determina para el vaor de R8.
 
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-20.3.png)
+
 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-22.png)
 
 SECCIÓN 8–6 Teorema de Norton
 
 24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-24.png)
 
 Primero, RN se encuentra simplificación de circuitos, como lo muestra la figura.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-24.1.png)
 
 La corriente a través de los terminales AB en cortocircuit es afectiva, como se muestra a continuación:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-24.2.png)
 
 Finalmente, la corriente a través de RL se determina conectando RL al circuito equivalente de Norton como mostramos en el gráfico.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-24.3.png)
 
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kΩ.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-26.png)
 
 Redibujamos al circuito
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-26.1.png)
 
 Redibujamos al circuito
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-26.2.png)
 
 Volvemos a redibujar el circuito
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-26.3.png)
 
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/28.png)
 
 Redibujamos el circuito y calculamos
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-28.1.png)
 
 Redibujamos para calcular la corriente
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-28.2.png)
 
 Volvemos a dibujar el circuito
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-28.3.png)
 
 Determinamos la corriente total
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-28.4.png)
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-30.png)
 
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-32.png)
 
 Con los datos del problema 31 resolvemos
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-32.1.png)
+
+IL debido a la fuente 1,5V:
+
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-32.2.png)
+
+IL debido a la fuente 1mA:
+
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-32.3.png)
 
 34. En la figura 8-88, convierta cada red delta en una red Y.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-34.png)
 
 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-36.png)
 
 Convierta delta formado por R3, R4 Y R5 en una configuración de estrella.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-36.1.png)
 
 En el circuito original:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-36.2.png)
 
 Video
 
