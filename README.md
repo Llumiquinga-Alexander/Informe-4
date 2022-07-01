@@ -482,11 +482,11 @@ https:
 
 Conclusiones
 
-Con referencia a los circuitos serie - paralelo se tiene que para realizar un análisis correcto se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, posterior a esto se puede aplicar los conocimientos antes adquiridos para calcule la resistencia, corriente y voltaje totales. Por otro lado para analizar los divisores de voltaje se debe de tener en cuenta , que estos producen un voltaje de salida que su valor surgió de la forma en que los empleemos, en otras palabras determinar si el divisor es bipolar o se basa en la corriente de carga y la corriente remanente.
+Es importante realizar las conversiones de fuente de manera correcta para evitar fallos al momento de la resolucion de los ejercicios.
 
-Las conversiones de fuente dentro de los circuitos son de dos tipos, el primero la conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero. El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
+El teorema de superposición para el análisis de circuitos serie - paralelo es primordial en la resolución de estos problemas debido a que nos permite hacer de un circuito grande uno más pequeño, lo cuál nos ayuda a resolver el problema de una manera más sencilla.
 
-El teorema de superposición para el análisis de circuitos serie - paralelo es efectivo porque permite reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito y se puede implementar cualquier método conocido anteriormente para poder calcular la intensidad de corriente, el voltaje total del circuito y la resistencia total. Cabe recalcar que aquí implementamos las conversiones de fuentes para poder reducir en circuito, también el divisor de corriente en la mayoría de los casos y se calculan las resistencias equivalentes aplicando las fórmulas de resistencia total para circuitos tanto en serie como en paralelo.
+Para realizar un análisis correcto de los circuitos serie - paralelo se debe identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie para luego calcular la corriente, resistencia y voltaje totales. 
 
 Bibliografias
 
