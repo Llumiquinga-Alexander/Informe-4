@@ -34,143 +34,129 @@ SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/2a.png)
 
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistencias
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/2b.png)
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/4.png)
 
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/6.png)
 
 SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/8.png)
 
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/10.png)
 
 12. Determine la corriente a través de cada resistencia en cada circuito de la figura 7-63; luego calcula cada caída de voltaje.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/12.1.png)
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/12.2.png)
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/14.png)
 
 El 1,8 kΩ y los dos 1 kΩ están en cortocircuito.
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/16.png)
 
 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/18.png)
 
 20. Determine el voltaje, VAB, en la figura 7-69
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/20.png)
 
 Resistencia de la rama derecha
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/20.1.png)
 
 Resistencia de la rama izquierda
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/20.2.png)
 
 Resistencia total
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/20.3.png)
 
 Corriente en la rama derecha
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/20.4.png)
 
 Corriente en la rama izquierda
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/20.5.png)
 
 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/22.png)
 
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/24.1.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/24.2.png)
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/26.png)
 
 Con una resistencia de 10KΩconectada desde la toma A a tierra:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/26.2.png)
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/28.png)
 
 Con una carga de 100KΩ
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/28.1.png)
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/30.png)
 
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/32.1.png)
 
 Posición 1:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/32.2.png)
 
 Posición 2:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/32.3.png)
 
 Posición 3:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/32.4.png)
 
 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/34.png)
 
 Con carga
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/34.1.png)
 
 SECCIÓN 7–4 Efecto de carga de un voltímetro
 
@@ -178,41 +164,41 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 
 (a) 0.5 V (b) 1 V (c) 5 V (d) 50 V (e) 100 V (f) 1000 V
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/36.png)
 
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/38.1.png)
 
 (a) Se utiliza el rango 0,5V para medir 0,383V.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/38.2.png)
 
 SECCIÓN 7–5 Redes en escalera
 
 40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-7
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/40.png)
 
 42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/42.1.png)
 
 Las corrientes se encontrarn en el problema 41.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/42.2.png)
 
 44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
 
 (a) Interruptor SW2 conectado a +12 V y los demás conectados a tierra (b) Interruptor SW1 conectado a +12 V y los demás conectados a tierra
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/44.png)
 
 SECCIÓN 7–6 El puente Wheatstone
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV=18 kΩ y R2/R4=0.02. ¿Cuál es RX?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/46.png)
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60o C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
