@@ -276,23 +276,23 @@ La corriente a travéz RL, debido a la fuente de 2V, es cero debido a la resiste
 
 Corriente total atravéz de RL:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.3.png)
 
 (b) La corriente a través de RL, debido a la fuente de 40V es cero debido a la resistencia (corto) de la funte de 60V.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.4.png)
 
 La corriente a través de RL debido a la fuente de 0.5V es cero debido a la resistencia cero de los 60V de la fuente.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.5.png)
 
 Corriente a través de RL debido a la fuente de 60V.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.6.png)
 
 Corriente total a través de RL:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-10.7.png)
 
 12. Repita el problema 11 si R2 es de 10 kΩ.
 
