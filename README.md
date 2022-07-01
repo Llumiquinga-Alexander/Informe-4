@@ -296,73 +296,73 @@ Corriente total a través de RL:
 
 12. Repita el problema 11 si R2 es de 10 kΩ.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-12.png)
 
 14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.png)
 
 Circuitos propuestos para la solución:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.1.png)
 
 SW1 Cerrado en el circuito (a):
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.2.png)
 
 SW1 Y SW2 Cerrados en el circuito (b):
 
 Corriente de la funte de 12V (fuente de 6V puesta a cero)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.3.png)
 
 Corriente de la fuente de 6V (funete de 12 puesta en cero)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.4.png)
 
 SW1 Y SW2 Y SW3 Cerrados en el circuito (c):
 
 Corriente de la fuente 12V (fuentes de 6 V y 9V puesto a cero)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.5.png)
 
 Corriente de la fuente 6V (fuentes de 9V y 12V puesto a cero)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.6.png)
 
 Corriente de la fuente de 9V (fuente de 6V y 12V puesto a cero)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-14.7.png)
 
 SECCIÓN 8–5 Teorema de Thevenin
 
 16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-16.png)
 
 18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-18.png)
 
 Primero, ponemos a cero (abrimos) la fuentede corriente, eliminar R4 y volvemos de dibujar el circuito.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-18.1.png)
 
 Determinamos V1 debido a la fuente de 50V usando el circuito de Thevenin y redibujamos el circuito.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-18.2.png)
 
 A continuación ponemos cero (corto) la fuente de voltaje, eliminmos R4 y redibujamos el circuito.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-18.3.png)
 
 Determine V4 debido a la fuente de corriente usando el circuito de Thevenin.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-18.4.png)
 
 Use la superposición para combinar los voltajes de V4, para obtener el voltaje total a través de R4:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-4/blob/main/-18.5.png)
 
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
 
